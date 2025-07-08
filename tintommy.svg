@@ -78,9 +78,11 @@
 
 			<div class="container">
         <div class="earth"></div>
-				<div class="greeting">
-         Hi there! I am Tin. <br/> I am currently a student at the <br/> <u style="color:yellow"> Posts and Telecommunications <br/>Institute of Technology.</u>
-        </div>
+		<div class="greeting">
+  Hi there! I am Tin. <br/> 
+  I am currently working <br/>
+as a <u style="color:yellow">Mobile Developer</u>
+</div>
       
 			</div>
 		</div>
